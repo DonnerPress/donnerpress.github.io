@@ -18,12 +18,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Donner News Room # the main title
+title: Donner Newsroom # the main title
 
 tagline: Find first hand news source of Donner Music here. Download all press releases and press kits of all Donner guitars, pedals, digital pianos, e-drum kits. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A temporary Donner News Room built by the Jake Wu, the pr guy of Donner. Download all press releases and press kits of all Donner guitars, pedals, digital pianos, e-drum kits.
+  A temporary Donner newsroom built by the Jake Wu, the pr guy of Donner. Download all press releases and press kits of all Donner guitars, pedals, digital pianos, e-drum kits and synthesisers.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://donnerpress.github.io"
