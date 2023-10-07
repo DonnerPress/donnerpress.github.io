@@ -18,34 +18,34 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Donner News Room # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Find first hand news source of Donner Music here. Download all press releases and press kits of all Donner guitars, pedals, digital pianos, e-drum kits. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A temporary Donner News Room built by the Jake Wu, the pr guy of Donner. Download all press releases and press kits of all Donner guitars, pedals, digital pianos, e-drum kits.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://donnerpress.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: donnerpress # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: donnermusic # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Donner PR Team
+  email: press@donnermusic.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/donnermusic # change to your twitter homepage
+    - https://github.com/donnerpress # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.facebook.com/donnermusicofficial
+    # - https://www.linkedin.com/in/donnermusic
 
 google_site_verification: # fill in to your verification string
 
@@ -73,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: "https://cdn.jsdelivr.net"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: gh/donnerpress/assets/img/favicons/fav_donner.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
